@@ -1,0 +1,19 @@
+body {
+    background-color:rgb(209, 205, 139);
+}
+
+button {
+    padding: 10px;
+}
+
+#myCanvas {
+    line-height: normal;
+}
+
+#displayWord {
+    font-size: 1cm;
+}
+
+#gameTitle {
+    font-size: 1.5cm;
+}
