@@ -1,5 +1,5 @@
-var c = document.getElementById("myCanvas");
-var ctx = c.getContext("2d");
+let c = document.getElementById("myCanvas");
+let ctx = c.getContext("2d");
 
 function createGallow() {
     ctx.moveTo(50,250);
